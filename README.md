@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/5829d3fb-d499-4e31-bed0-2d4b3e092db3.svg)](https://wakatime.com/@5829d3fb-d499-4e31-bed0-2d4b3e092db3)
+
 <!--
 **TwixmixyJanet/TwixmixyJanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
