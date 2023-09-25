@@ -2,6 +2,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/5829d3fb-d499-4e31-bed0-2d4b3e092db3.svg)](https://wakatime.com/@5829d3fb-d499-4e31-bed0-2d4b3e092db3)
 
+.. image:: https://wakatime.com/share/@Twixmixy/7d753f0a-047f-4eb2-88ea-a79399741cfc.png
+    :target: https://wakatime.com/
+
 <!--
 **TwixmixyJanet/TwixmixyJanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
