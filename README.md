@@ -2,7 +2,7 @@
 
 I am currently enrolled in the Full Stack MERN Software Engineer Bootcamp at UC Berkeley.
 
-![wakatime coding](https://wakatime.com/share/@Twixmixy/3d420287-7b00-48c2-b21f-718a3d0b5c31.png)
+![wakatime coding](https://wakatime.com/share/@Twixmixy/03cf3f49-0a62-487f-8c22-dadce8bf7674.png)
 
 <!--
 **TwixmixyJanet/TwixmixyJanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
