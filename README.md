@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![wakatime coding](https://wakatime.com/badge/user/5829d3fb-d499-4e31-bed0-2d4b3e092db3.svg)](https://wakatime.com/@5829d3fb-d499-4e31-bed0-2d4b3e092db3)
+I am currently enrolled in the Full Stack MERN Software Engineer Bootcamp at UC Berkeley.
 
-[![wakatime chart last 30 days](https://wakatime.com/share/@Twixmixy/7d753f0a-047f-4eb2-88ea-a79399741cfc.png)
+![wakatime coding](https://wakatime.com/badge/user/5829d3fb-d499-4e31-bed0-2d4b3e092db3.svg)
+
+![wakatime chart last 30 days]([https://wakatime.com/share/@Twixmixy/7d753f0a-047f-4eb2-88ea-a79399741cfc.png](https://wakatime.com/share/@Twixmixy/ef6661c8-0153-455f-871b-b75b05ec52f1.svg))
+<figure><embed src="https://wakatime.com/share/@Twixmixy/ef6661c8-0153-455f-871b-b75b05ec52f1.svg"></embed></figure>
 
 <!--
 **TwixmixyJanet/TwixmixyJanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
