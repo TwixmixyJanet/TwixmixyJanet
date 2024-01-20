@@ -1,6 +1,9 @@
-### Hi there 👋
+### Greetings 👽 I'm Janet Webster
 
-I am a Full Stack MERN Software Engineer Bootcamp Graduate from UC Berkeley.
+I am a Full Stack MERN Software Engineer Certified from UC Berkeley<br />
+Front End Developer Certified from Skillcrush<br />
+18 years of experience in the tech industry<br />
+20+ years of professional career experience<br />
 <br />
 Active Coding Time: [![wakatime](https://wakatime.com/badge/user/5829d3fb-d499-4e31-bed0-2d4b3e092db3.svg)](https://wakatime.com/@5829d3fb-d499-4e31-bed0-2d4b3e092db3)
 
