@@ -1,7 +1,7 @@
-### Greetings 👽 I'm Janet Webster
+## Greetings 👽 I'm Janet Webster
 
 I am a Software Engineer with a Full Stack MERN Certificate from UC Berkeley<br />
-const MERN = ["MongoDB", "ExpressJS", "ReactJS", "NodeJS"]<br />
+`const MERN = ["MongoDB", "ExpressJS", "ReactJS", "NodeJS"]`<br />
 Front End Developer Certified from Skillcrush<br />
 18 years of experience in the tech industry<br />
 20+ years of professional career experience<br />
@@ -9,7 +9,7 @@ Front End Developer Certified from Skillcrush<br />
 [![wakatime](https://wakatime.com/badge/user/5829d3fb-d499-4e31-bed0-2d4b3e092db3.svg)](https://wakatime.com/@5829d3fb-d499-4e31-bed0-2d4b3e092db3) <br />
 [![codewarrior](https://www.codewars.com/users/Twixmixy/badges/micro)](https://www.codewars.com/users/Twixmixy/)
 
-[Hire Me!](https://www.linkedin.com/in/twixmixy/)
+### [Hire Me!](https://www.linkedin.com/in/twixmixy/)
 
 <!--
 ![wakatime coding](https://wakatime.com/share/@Twixmixy/03cf3f49-0a62-487f-8c22-dadce8bf7674.png)
