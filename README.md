@@ -1,6 +1,7 @@
 ### Greetings 👽 I'm Janet Webster
 
-I am a Full Stack MERN Software Engineer Certified from UC Berkeley<br />
+I am a Software Engineer with a Full Stack MERN Certificate from UC Berkeley<br />
+const MERN = ["MongoDB", "ExpressJS", "ReactJS", "NodeJS"]<br />
 Front End Developer Certified from Skillcrush<br />
 18 years of experience in the tech industry<br />
 20+ years of professional career experience<br />
